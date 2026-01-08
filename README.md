@@ -22,6 +22,14 @@ For a detailed walkthrough of the setup and code, check out our blog:
 
 [**Build a Local LLM-based RAG System for Your Personal Documents - Part 2: The Guide**](https://jamwithai.substack.com/p/build-a-local-llm-based-rag-system-628)
 
+## My Contributions
+- Set up local Python 3.11 environment and dependency management
+- Integrated Ollama for local LLM inference
+- Configured OpenSearch NLP search pipeline
+- Implemented document upload and RAG-based chatbot interface
+- Added runtime and user-data protection via `.gitignore`
+
+
 ---
 
 Enjoy your journey in building a private, AI-driven document management system! If you find this project useful, consider sharing it with others in the community!

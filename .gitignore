@@ -154,6 +154,37 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# -------------------------
+# Python / Virtual Env
+# -------------------------
+venv/
+__pycache__/
+*.pyc
+
+# -------------------------
+# Logs & runtime files
+# -------------------------
+logs/
+*.log
+
+# -------------------------
+# Uploaded user documents
+# -------------------------
+uploaded_files/
+
+# -------------------------
+# Models / large files (optional but recommended)
+# -------------------------
+embedding_model/
+
+# -------------------------
+# OS / Editor
+# -------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
